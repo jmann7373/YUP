@@ -1,0 +1,43 @@
+body{
+    color: black;
+}
+.common{
+    position: absolute;
+    padding: 5px;
+}
+.menu{
+    position: sticky;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.body{
+    width: 100%;
+    bottom: 30px;
+    top: 60px;
+    padding-bottom: 500px;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:white;
+    color: black;
+    padding: 10px;
+    text-align: center;
+  }
+.vidintro{
+    text-align: center;
+}
+.vid{
+    width:50% ;
+}
+img{
+    width: auto;
+    height: 500px;
+    border: 5px black;
+}
+.tabstyle{
+    height: auto;
+    width: 500px;
+    float:right;
+}
